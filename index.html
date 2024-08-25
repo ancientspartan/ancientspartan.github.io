@@ -62,6 +62,19 @@
     // audioElement.play().catch(error => console.log('Error playing sound:', error));
 });
  </script>
+        <audio id="background-music" src="assets/sounds/One Chance.mp3" preload="auto" loop></audio>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+    const audio = document.getElementById('background-music');
+    
+    // Play the audio when the page is loaded
+    audio.play().catch(error => {
+        // Handle errors (e.g., autoplay restrictions)
+        console.error('Playback error:', error);
+    });
+});
+</script>
+
         <!-- preloader end -->
 
         <!-- scrollbar progress -->
