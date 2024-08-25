@@ -67,11 +67,13 @@
         document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('background-music');
     
-    // Play the audio when the page is loaded
-    audio.play().catch(error => {
-        // Handle errors (e.g., autoplay restrictions)
-        console.error('Playback error:', error);
-    });
+    // Delay playback by 5 seconds (5000 milliseconds)
+    setTimeout(function() {
+        audio.play().catch(error => {
+            // Handle errors (e.g., autoplay restrictions)
+            console.error('Playback error:', error);
+        });
+    }, 5000); // 5000 milliseconds = 5 seconds
 });
 </script>
 
