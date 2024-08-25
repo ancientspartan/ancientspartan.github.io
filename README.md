@@ -2,17 +2,6 @@
 
 Welcome to the repository for my personal website and portfolio. This website serves as a showcase of my work, skills, and experience in web development and video editing.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 This is the source code for my personal website, where I display my portfolio, highlight my professional journey, and provide insights into my hobbies and interests. The website is designed to be responsive, fast, and user-friendly.
