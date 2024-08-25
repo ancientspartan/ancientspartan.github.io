@@ -1174,7 +1174,7 @@ scrollbar
 .mil-progress-track .mil-progress {
   width: 4px;
   height: 0;
-  background-color: rgb(255, 152, 0);
+  background-color: rgb(78, 8, 118);
 }
 @media screen and (max-width: 992px) {
   .mil-progress-track {
