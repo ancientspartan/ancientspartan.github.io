@@ -2,8 +2,6 @@
 
 Welcome to the repository for my personal website and portfolio. This website serves as a showcase of my work, skills, and experience in web development and video editing.
 
-![Website Screenshot](path/to/your/screenshot.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
