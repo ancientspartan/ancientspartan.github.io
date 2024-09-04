@@ -4082,7 +4082,7 @@ images
      object-position: center;
 }
 .mil-image-frame.mil-horizontal {
-  padding-bottom: 65%;
+  padding-bottom: 1%;
 }
 .mil-image-frame.mil-vertical {
   padding-bottom: 140%;
