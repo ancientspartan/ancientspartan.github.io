@@ -2767,7 +2767,7 @@ revievs
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
 .mil-slider-nav .mil-slider-arrow svg path {
-  fill: rgb(255, 152, 0);
+  fill: rgb(255, 255, 255);
 }
 .mil-slider-nav .mil-slider-arrow.mil-prev {
   margin-right: 10px;
@@ -4082,13 +4082,13 @@ images
      object-position: center;
 }
 .mil-image-frame.mil-horizontal {
-  padding-bottom: 1%;
+  padding-bottom: 5%;
 }
 .mil-image-frame.mil-vertical {
-  padding-bottom: 140%;
+  padding-bottom: 20%;
 }
 .mil-image-frame.mil-square {
-  padding-bottom: 100%;
+  padding-bottom: 20%;
 }
 .mil-image-frame.mil-fw {
   padding-bottom: 50%;
